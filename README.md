@@ -51,7 +51,7 @@ stremlir run app.py
 
 ### Prerequisites
 - Python 3.10+
-- Aws Creds provided by Enrain
+- Aws Creds provided by Entain
 
 ### Install dependencies
 
