@@ -1,0 +1,8 @@
+langchain
+langgraph
+streamlit
+langchain-groq
+langchain-openai
+graphviz 
+boto3
+awscli
